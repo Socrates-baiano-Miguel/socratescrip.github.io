@@ -1,0 +1,210 @@
+ .titulo{
+text-align: center;
+}
+
+.todas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.todas img {
+    flex: 0 1 calc(22.22% - 10%); /* 3 colunas com espaço */
+    margin: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#MIGS {
+    width: 10%;
+}
+
+#LUC {
+    width: 10%;
+}
+
+#JOA {   
+   width: 8.5%;
+}
+
+#LUP {
+    width: 7.3%;
+}
+
+#Dl {   
+   width: 10%;
+}
+
+#GABDIV {
+    width: 10.9%;
+}
+
+#JOOJ {   
+   width: 8.1%;
+}
+
+#MACONHA {
+    width: 12%;
+}
+
+#ANAB {   
+   width: 7.5%;
+}
+
+#THU {
+    width: 10%;
+    
+}
+
+#RAFAF {   
+   width: 17.7%;
+}
+
+#CAMIL {
+    width: 10%;
+}
+
+#JOSSS {   
+   width: 10%;
+}
+
+#LIN {
+    width: 9%;
+}
+
+#MANDR {   
+   width: 10%;
+}
+
+#TAUO {
+    width: 7.5%;
+}
+
+#lt {   
+   width: 10%;
+}
+
+#GABS {
+    width: 5%;
+}
+
+#MRANG {   
+   width: 10%;
+}
+
+#ALIN {
+    width: 10%;
+}
+
+#LAN {   
+   width: 10%;
+}
+
+#JOANN {
+    width: 13.3%
+}
+
+#LINLIN {   
+   width: 11.6%;
+}
+
+#JOAG {
+    width: 13.6%;
+}
+
+#AMIMIR {   
+   width: 9.6%;
+}
+
+#LULU {
+    width: 12.6%;
+}
+
+#LULUM {   
+   width: 13.3%;
+}
+
+#TRUCO {
+    width: 10%;
+}
+
+#LÇÇ {   
+   width: 23.2%;
+}
+
+#LEL {
+    width: 10%;
+}
+
+#TR {   
+   width: 12.5%;
+}
+
+#RT {
+    width: 12.5%;
+}
+
+#RTE {   
+   width: 17.2%;
+}
+
+#HUM {
+    width: 15.2%;
+}
+
+#RF {   
+   width: 11.5%;
+}
+
+#AUAU {
+    width: 15.2%;
+}
+
+#EU {   
+   width: 11.4%;
+}
+
+#CALV {
+    width: 100;
+}
+
+#lt {   
+   width: 10%;
+}
+
+#AA {
+    width: 20%;
+}
+
+#XXX {   
+   width: 13%;
+}
+
+#DRU {   
+    width: 10.4%;
+ }
+
+ #HT {   
+    width: 13%;
+ }
+ 
+ #KAPA {   
+     width: 17.2%;
+  }
+
+  #DTWO {   
+     width: 10.4%;
+  }
+
+.bar {
+    margin: auto ;
+    width: 85%;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: 80px;
+    
+}
+
+p a{
+    text-align: center;
+}

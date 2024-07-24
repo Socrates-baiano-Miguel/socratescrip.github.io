@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/base do site/crip.css">
+    <script src="/base do site/crip.js"></script>
+</head>
+<body>
+    <div class="titulo">
+        <h1>Seja Bem Vindo Ao Descriptogramento unico que eu criei</h1>
+    </div>
+
+    <div class="bar">
+        <input type="text" id="searchBar" placeholder="Texto" class="bar">
+    </div>
+
+    <div class="todas">
+        <img  src="/img/l.jpg" alt="an" id="LUC">
+        <img  src="/img/m.png" alt="an" id="MIGS">
+        <img  src="/img/jv.jpg" alt="an" id="JOA">
+        <img  src="/img/lp.jpg" alt="an" id="LUP">
+        <img  src="/img/digs.jpg" alt="an" id="Dl">
+        <img  src="/img/gabd.jpg" alt="an" id="GABDIV">
+        <img  src="/img/joj.jpg" alt="an" id="JOOJ">
+        <img  src="/img/maconha.jpg" alt="an" id="MACONHA">
+        <img  src="/img/anb.jpg" alt="an" id="ANAB">
+        <img  src="/img/tau.jpg" alt="an" id="THU">
+        <img  src="/img/rafs.jpg" alt="an" id="RAFAF">
+        <img  src="/img/camis.jpg" alt="an" id="CAMIL">
+        <img  src="/img/joseph.jpg" alt="an" id="JOSSS">
+        <img  src="/img/lin.jpg" alt="an" id="LIN">
+        <img  src="/img/migsm.jpg" alt="an" id="MANDR">
+        <img  src="/img/omt.jpg" alt="an" id="TAUO">
+        <img  src="/img/gabs.jpg" alt="an" id="GABS">
+        <img  src="/img/rango.jpg" alt="an" id="MRANG">
+        <img  src="/img/alin.jpg" alt="an" id="ALIN">
+        <img  src="/img/luana.jpg" alt="an" id="LAN">
+        <img  src="/img/joooj.jpg" alt="an" id="JOANN">
+        <img  src="/img/linlin.jpg" alt="an" id="LINLIN">
+        <img  src="/img/jjjj.jpg" alt="an" id="JOAG">
+        <img  src="/img/lulu.jpg" alt="an" id="LULU">
+        <img  src="/img/lulum.jpg" alt="an" id="LULUM">
+        <img  src="/img/amimir.jpg" alt="an" id="AMIMIR">
+        <img  src="/img/truco.jpg" alt="an" id="TRUCO">
+        <img  src="/img/lçç.jpg" alt="an" id="LÇÇ">
+        <img  src="/img/lel.jpg" alt="an" id="LEL">
+        <img  src="/img/rangotwo.jpg" alt="an" id="TR">
+        <img  src="/img/rt.jpg" alt="an" id="RT">
+        <img  src="/img/rangotree.jpg" alt="an" id="RTE">
+        <img  src="/img/hum.jpg" alt="an" id="HUM">
+        <img  src="/img/rangofour.jpg" alt="an" id="RF">
+        <img  src="/img/cachorro.jpg" alt="an" id="AUAU">
+        <img  src="/img/eu.jpg" alt="an" id="EU">
+        <img  src="/img/calvo.jpg" alt="an" id="CALV">
+        <img  src="/img/aaaaaaaaa.jpg" alt="an" id="AA">
+        <img  src="/img/xxx.jpg" alt="an" id="XXX">
+        <img  src="/img/drugs.jpg" alt="an" id="DRU">
+        <img  src="/img/humt.jpg" alt="an" id="HT">
+        <img  src="/img/dá.jpg" alt="an" id="KAPA">
+        <img  src="/img/dtwo.jpg" alt="an" id="DTWO">
+    </div>
+   
+    <h2>CRIPTROGRAFE <a href="descrip.html">AQUI</a></h2>
+</body>
+</html>

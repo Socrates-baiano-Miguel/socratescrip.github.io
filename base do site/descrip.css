@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bar {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    margin: auto;
+}
+
+.image-container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-container div {
+    margin: 10px;
+    text-align: center;
+}
+
+.image-container img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
